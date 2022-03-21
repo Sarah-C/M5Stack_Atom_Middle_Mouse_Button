@@ -8,7 +8,7 @@ The taskbar when middle clicked opens a new instance of whatever program you've 
 
 For years touchpads only came with two buttons, until Microsoft created the new intelligent touch system in Windows 10, and with it 3 fingers could be used to "tap" the middle mouse button.
 
-Those programs above work great with it. Sadly - programs that need middle-click and drag support. Such as Maya, Blender and several other programs. If you tried you would find one of the other intelligent touch "shortcuts" activating like "program select" or "minimise all windows". 
+Those programs above work great with it. Sadly - programs that need middle-click and drag support such as Maya, Blender and several other programs need you to be able to move the mouse while middle clicking. If you tried this with your "three fingers touch" you would find one of the other intelligent touch "shortcuts" activating like "program select" or "minimise all windows". 
 
 You can get middle mouse button emulator programs that turn a keypress into the middle button, but they lack the position of the real-world button.
 
