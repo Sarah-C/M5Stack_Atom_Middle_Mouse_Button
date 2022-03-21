@@ -25,7 +25,7 @@ The program uses the Bluetooth Low Energy mouse driver from https://github.com/T
 1: Upload the sketch using Arduino IDE to the Atom.               
 2: When powered, the Atom's LED will glow CYAN - this means it's waiting to be paired.                 
 3: In Windows - open your Bluetooth window (ususally in your system tray) and click "Connect a new mouse/keyboard" option. The Atom will appear as "M5Stack: Middle mouse mutton".                    
-4: One connected the Atom's LED will glow green.                      
+4: Once connected the Atom's LED will glow green.                      
 5: Pressing the Atom's button will activate the middle mouse button wherever your mouse cursor currently is, and the LED will glow RED until it's released.                     
 
 You can unplug the Atom, and plug it back in later, and it will auto-pair again.
