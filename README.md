@@ -16,6 +16,7 @@ Those programs above work great with it. Sadly - programs that need middle-click
 You can get middle mouse button emulator programs that turn a keypress into the middle button, but they lack the position of the real-world button.
 
 This is were M5Stack Atom Middle Mouse Button is useful - click and drag just like you would with your mouse while using Blender, Maya and lots of other programs!
+A blob of blue-tac or some velcro will hold your button in place.  ;)
 
 # How it works
 The program uses the Bluetooth Low Energy mouse driver from https://github.com/T-vK/ESP32-BLE-Mouse and integrates it with the Atom's button to emulate a mouse's middle click and click-and-hold.
