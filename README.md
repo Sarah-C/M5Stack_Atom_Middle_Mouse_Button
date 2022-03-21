@@ -28,6 +28,6 @@ The program uses the Bluetooth Low Energy mouse driver from https://github.com/T
 4: Once connected the Atom's LED will glow green.                      
 5: Pressing the Atom's button will activate the middle mouse button wherever your mouse cursor currently is, and the LED will glow RED until it's released.                     
 
-You can unplug the Atom, and plug it back in later, and it will auto-pair again.
+You can unplug the Atom and plug it back in later, and it will auto-pair again.
 
 
