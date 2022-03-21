@@ -1,4 +1,7 @@
 # M5Stack Atom: The missing middle mouse button
+
+![20220320_152902](https://user-images.githubusercontent.com/1586332/159325662-089217c3-11d4-49fa-835e-5541042f9d39.jpg)
+
 This program turns your M5Stack Atom (or Matrix) into the missing middle mouse button for your laptop!
 
 The middle mouse button "hides" under the scroll wheel of the mouse. Did you know you can actually press the wheel down?               
@@ -26,5 +29,4 @@ The program uses the Bluetooth Low Energy mouse driver from https://github.com/T
 
 You can unplug the Atom, and plug it back in later, and it will auto-pair again.
 
-![20220320_152902](https://user-images.githubusercontent.com/1586332/159325662-089217c3-11d4-49fa-835e-5541042f9d39.jpg)
 
